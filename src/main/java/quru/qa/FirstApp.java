@@ -1,6 +1,6 @@
 package quru.qa;
 
-public class First_app {
+public class FirstApp {
 
     public static void main(String[] args) {
 
